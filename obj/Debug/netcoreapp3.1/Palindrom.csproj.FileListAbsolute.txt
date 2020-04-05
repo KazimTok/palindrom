@@ -1,0 +1,11 @@
+C:\Users\kazım\source\repos\Palindrom\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.exe
+C:\Users\kazım\source\repos\Palindrom\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.deps.json
+C:\Users\kazım\source\repos\Palindrom\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.runtimeconfig.json
+C:\Users\kazım\source\repos\Palindrom\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.runtimeconfig.dev.json
+C:\Users\kazım\source\repos\Palindrom\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.dll
+C:\Users\kazım\source\repos\Palindrom\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.pdb
+C:\Users\kazım\source\repos\Palindrom\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.csprojAssemblyReference.cache
+C:\Users\kazım\source\repos\Palindrom\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.AssemblyInfoInputs.cache
+C:\Users\kazım\source\repos\Palindrom\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.AssemblyInfo.cs
+C:\Users\kazım\source\repos\Palindrom\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.dll
+C:\Users\kazım\source\repos\Palindrom\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.pdb
